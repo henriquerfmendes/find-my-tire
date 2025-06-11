@@ -327,3 +327,14 @@ Unit tests use mocks to isolate the tested units from their external dependencie
 
 - Make sure both backend and frontend are running before executing Cypress tests.
 - You can add or modify tests in the `frontend/cypress/e2e/` directory.
+
+## Screenshots
+
+### Tire Listing with Filters
+![Tire Listing with Filters](assets/filter.png)
+
+### Tire Cards View
+![Tire Cards View](assets/tire-cards.png)
+
+### Tire Detail Page
+![Tire Detail Page](assets/tire-detail.png)
